@@ -1,0 +1,10 @@
+{
+    "name":"Raman Facts",
+    "description":"Get a new fact everytime you click the extension icon",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon": "download.png"
+    }
+}
